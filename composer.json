@@ -11,6 +11,7 @@
         "accounting"
     ],
     "require": {
+        "php":">=7.1",
         "laravel/framework": "^5.1||^6.0||^7.0",
         "calcinai/xero-php": "^2.0"
     },
